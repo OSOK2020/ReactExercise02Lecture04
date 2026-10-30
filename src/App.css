@@ -1,0 +1,33 @@
+nav {
+  background-color: darkgreen;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+section {
+  height: 200px;
+  background-color: lightyellow;
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+.ingredients {
+  background-color: white;
+}
+
+h2 {
+  color: black;
+}
+
+.instructions {
+  background-color: rgb(230, 200, 143);
+  height: 200px;
+}
+article {
+  background-color: bisque;
+}
